@@ -11,5 +11,5 @@
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on DevOps, Open-Source, and Cloud
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311)
 - ⚡ Fun fact: ...

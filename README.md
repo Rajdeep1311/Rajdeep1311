@@ -3,7 +3,7 @@
 <!--
 **Rajdeep1311/Rajdeep1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/Rajdeep1311"><img src="https://api.daily.dev/devcards/ae92d3a02a814c0bafe0a0793b913fa2.png?r=5zl" width="400" alt="Rajdeep Pal's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajdeep1311"><img src="https://api.daily.dev/devcards/ae92d3a02a814c0bafe0a0793b913fa2.png?r=l0w" width="400" alt="Rajdeep Pal's Dev Card"/></a>
 
 Here are some ideas to get you started:
 

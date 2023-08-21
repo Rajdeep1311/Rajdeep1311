@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on OpenStack
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on DevOps, Open-Source, and Cloud
-- 💬 Ask me about ...
+- 💬 Ask me about DevOps, Cloud, and Open-Source
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Kubernetes is also called K8s because the word has 8 letters between K and s.

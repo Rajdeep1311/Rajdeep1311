@@ -22,7 +22,7 @@
 ![image](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183) 
 ![image](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/6065bd3d-5979-4557-9a45-32db5d53c377)
 ![docker-logo-250w-removebg-preview](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/79ea9a82-5571-459e-9330-aadf1dd67f2d)
-<img width="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/1e7007e1-27f2-497e-bfc4-464fe3051900">
+<img width="300" height="175" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/178f6d8c-8fb9-4c56-99a3-376c9c37fced">
 
 
 

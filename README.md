@@ -39,9 +39,9 @@
 
 <h2>GITHUB SCORELINE</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-black&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep1311&theme=shades-of-black&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-grey&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-black&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 

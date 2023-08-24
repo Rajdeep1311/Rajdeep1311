@@ -19,15 +19,15 @@
 
 <h3 style="text-align: center">TECH STACKS</h3>
 
-![image](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183) 
-![image](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/6065bd3d-5979-4557-9a45-32db5d53c377)
-![docker-logo-250w-removebg-preview](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/79ea9a82-5571-459e-9330-aadf1dd67f2d)
-<img width="300" height="175" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/178f6d8c-8fb9-4c56-99a3-376c9c37fced">
-<img width="250" height="175" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5e5ae5a7-6184-4b75-a59f-ad591b25920a">
-<img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/762d14e2-ac7b-48ea-9614-121e109bd095">
-<img width="350" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/f9507641-1df8-4ddd-bafd-0144bbe4328a">
-<img width="200" height="200" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/ce47bc3e-af7d-4808-bf7f-d7bd8fc5aca9">
-<img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/dcbe2ccb-18b7-4e19-8ebf-8e1c7ab5a9cb">
+<img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183">
+<img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/6065bd3d-5979-4557-9a45-32db5d53c377">
+<img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/79ea9a82-5571-459e-9330-aadf1dd67f2d">
+<img width="200" height="110" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/178f6d8c-8fb9-4c56-99a3-376c9c37fced">
+<img width="150" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5e5ae5a7-6184-4b75-a59f-ad591b25920a">
+<img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/762d14e2-ac7b-48ea-9614-121e109bd095">
+<img width="175" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/f9507641-1df8-4ddd-bafd-0144bbe4328a">
+<img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/ce47bc3e-af7d-4808-bf7f-d7bd8fc5aca9">
+<img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/dcbe2ccb-18b7-4e19-8ebf-8e1c7ab5a9cb">
 
 
 

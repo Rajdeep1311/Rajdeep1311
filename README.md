@@ -33,8 +33,15 @@
 
 <h2>CONFERENCES ATTENDEE</h2>
 
-<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">
-<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
+<img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">
+
+<img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
+
+<h2>GITHUB SCORELINE</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep1311&theme=shades-of-black&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-grey&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 

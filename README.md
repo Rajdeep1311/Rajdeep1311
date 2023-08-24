@@ -17,7 +17,7 @@
 
 
 
-<h2 style="text-align: center">TECH STACKS</h2>
+<h2>TECH STACKS</h2>
 
 <img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183">
 <img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/ce47bc3e-af7d-4808-bf7f-d7bd8fc5aca9">
@@ -31,6 +31,10 @@
 <img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/dcbe2ccb-18b7-4e19-8ebf-8e1c7ab5a9cb">
 
 
+<h2>CONFERENCES ATTENDEE</h2>
+
+<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">{width=50%}
+<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
 
 
 

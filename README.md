@@ -33,7 +33,7 @@
 
 <h2>CONFERENCES ATTENDEE</h2>
 
-<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">{width=50%}
+<img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">
 <img width="300" height="300" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
 
 

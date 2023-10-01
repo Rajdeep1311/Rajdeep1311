@@ -37,6 +37,7 @@
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
 
+
 <h2>GITHUB SCORELINE</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -44,6 +45,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+<h2>HACKTOBERFEST 2023</h2>
+
+[![An image of @rajdeep1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep1311)](https://holopin.io/@rajdeep1311)
 
 
 

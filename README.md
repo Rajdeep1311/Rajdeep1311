@@ -47,7 +47,7 @@
 
 <h2>HACKTOBERFEST 2023</h2>
 
-![An image of @rajdeep1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=rajdeep1311)
+[![An image of @rajdeep1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep1311)](https://holopin.io/@rajdeep1311)
 
 <h2>CNCF Badges</h2>
 

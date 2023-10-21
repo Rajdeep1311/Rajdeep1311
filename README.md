@@ -8,7 +8,7 @@
 </p>  
 
 
-- 🔭 I’m currently working on OpenStack, OpenMetal, and Observability
+- 🔭 I’m currently working on OpenStack, OpenMetal, Observability and Docker Scout
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on DevOps, Open-Source, and Cloud
 - 💬 Ask me about DevOps, Cloud, and Open-Source

@@ -8,7 +8,7 @@
 </p>  
 
 
-- 🔭 I’m currently working on OpenStack, OpenMetal, Observability and Docker Scout
+- 🔭 I’m currently working on OpenStack, OpenMetal, Observability, and Docker Scout
 - 🌱 I’m currently learning DevOps and Cloud
 - 👯 I’m looking to collaborate on DevOps, Open-Source, and Cloud
 - 💬 Ask me about DevOps, Cloud, and Open-Source
@@ -37,7 +37,8 @@
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5c0fec1c-922f-4407-a33a-322c1a9c6d2c">
 
-<img width="275" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/3c657318-d826-48bc-ab69-87be5dbdf914">
+<img width="255" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/9c625182-34fe-4edb-9991-e2a30a7fc94d">
+
 
 <h2>GITHUB SCORELINE</h2>
 

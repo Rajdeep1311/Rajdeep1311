@@ -54,6 +54,3 @@
 <h2>CNCF Badges</h2>
 
 ![zero-to-merge-cohort-01](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/75918ed8-c04c-4901-824a-af7218eb58b4)
-
-
-

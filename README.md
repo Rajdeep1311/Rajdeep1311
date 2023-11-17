@@ -31,7 +31,7 @@
 <img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/dcbe2ccb-18b7-4e19-8ebf-8e1c7ab5a9cb">
 
 
-<h2>CONFERENCES ATTENDEE</h2>
+<h2>CONFERENCES ATTENDED</h2>
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">
 

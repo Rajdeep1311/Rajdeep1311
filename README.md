@@ -3,9 +3,9 @@
 <!--
 **Rajdeep1311/Rajdeep1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center">
-  <a href="https://app.daily.dev/Rajdeep1311"><img src="https://api.daily.dev/devcards/ae92d3a02a814c0bafe0a0793b913fa2.png?r=66l" width="300" alt="Rajdeep Pal's Dev Card"/></a>
-</p>  
+
+
+![Black and White Minimalist Animated Grunge Photography Camera YouTube Intro](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/aa193074-02f5-422d-9343-c55c32a27796)
 
 
 - 🔭 I’m currently working on OpenStack, OpenMetal, Observability, and Docker Scout

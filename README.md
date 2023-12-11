@@ -45,6 +45,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep1311&theme=shades-of-blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/Rajdeep1311/Rajdeep1311/blob/output/github-contribution-grid-snake.svg)
 
 <h2>HACKTOBERFEST 2023</h2>
 

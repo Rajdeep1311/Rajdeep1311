@@ -12,7 +12,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311)
 - ⚡ Fun fact: Kubernetes is also called K8s because the word has 8 letters between K and S
 
-
 <h2>TECH STACKS</h2>
 
 <img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183">
@@ -26,7 +25,6 @@
 <img width="240" height="120" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/f9507641-1df8-4ddd-bafd-0144bbe4328a">
 <img width="100" height="100" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/dcbe2ccb-18b7-4e19-8ebf-8e1c7ab5a9cb">
 
-
 <h2>CONFERENCES ATTENDED</h2>
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/5dbe233f-b009-4879-a183-78bff5eb5fc5">
@@ -36,7 +34,6 @@
 <img width="255" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/9c625182-34fe-4edb-9991-e2a30a7fc94d">
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/c10c1739-89d4-4d2e-8ba4-1b2496ad1200">
-
 
 
 <h2>GITHUB SCORELINE</h2>

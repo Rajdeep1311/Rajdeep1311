@@ -34,7 +34,6 @@
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/c10c1739-89d4-4d2e-8ba4-1b2496ad1200">
 
-
 <h2>GITHUB SCORELINE</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false)<br/>

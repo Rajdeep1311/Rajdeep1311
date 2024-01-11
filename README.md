@@ -1,5 +1,5 @@
 <!--
-**Rajdeep1311/Rajdeep1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rajdeep1311/Rajdeep1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 -->
 
 ![Black and White Minimalist Animated Grunge Photography Camera YouTube Intro](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/aa193074-02f5-422d-9343-c55c32a27796)

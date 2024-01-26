@@ -4,9 +4,10 @@
 
 ![Black and White Minimalist Animated Grunge Photography Camera YouTube Intro](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/aa193074-02f5-422d-9343-c55c32a27796)
 
-- 🔭 I’m currently working as an Intern, learning Openstack and helping in community building.
-- 🌱 I’m currently learning DevOps, Cloud and Python.
-- 👯 I’m looking to collaborate on DevOps, Open-Source, and Cloud.
+- 🔭 I’m working as an Intern, learning Openstack,
+-  and helping in community building.
+- 🌱 I’m currently learning DevOps, Cloud, and Python.
+- 👯 I want to collaborate on DevOps, Open-Source, and Cloud.
 - 💬 Ask me about DevOps, Cloud, and Open-Source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311).
 - ⚡ Fun fact: Kubernetes is also called K8s because the word has 8 letters between K and S.

@@ -4,8 +4,7 @@
 
 ![Black and White Minimalist Animated Grunge Photography Camera YouTube Intro](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/aa193074-02f5-422d-9343-c55c32a27796)
 
-- 🔭 I’m working as an Intern, learning Openstack,
--  and helping in community building.
+- 🔭 I’m working as an Intern and helping in community building.
 - 🌱 I’m currently learning DevOps, Cloud, and Python.
 - 👯 I want to collaborate on DevOps, Open-Source, and Cloud.
 - 💬 Ask me about DevOps, Cloud, and Open-Source.

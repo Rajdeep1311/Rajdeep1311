@@ -11,6 +11,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311).
 - ⚡ Fun fact: Kubernetes is also called K8s because the word has 8 letters between K and S.
 
+<p align="center">
+  <a href="https://app.daily.dev/rajdeep1311"><img src="https://api.daily.dev/devcards/v2/9pCoz5TC8x2HW2woSHutS.png?type=wide&r=zdj" width="652" alt="Rajdeep Pal's Dev Card"/></a>
+  </p>
+
 <h2>TECH STACKS</h2>
 
 <img width="150" height="150" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/acacf976-878d-4676-bf75-ff61a4f45183">

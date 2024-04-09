@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Kubernetes is also called K8s because the word has 8 letters between K and S.
 
 <p align="center">
-  <a href="https://app.daily.dev/rajdeep1311"><img src="https://api.daily.dev/devcards/v2/9pCoz5TC8x2HW2woSHutS.png?type=wide&r=zdj" width="652" alt="Rajdeep Pal's Dev Card"/></a>
+  <a href="https://app.daily.dev/rajdeep1311"><img src="https://api.daily.dev/devcards/v2/9pCoz5TC8x2HW2woSHutS.png?type=wide&r=im8" width="652" alt="Rajdeep Pal's Dev Card"/></a>
   </p>
 
 <h2>TECH STACKS</h2>

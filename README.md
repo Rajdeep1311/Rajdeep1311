@@ -40,9 +40,9 @@
 
 <h2>GITHUB SCORELINE</h2>
 
-[![Rajdeep1311's GitHub | Stats](https://stats.quine.sh/Rajdeep1311/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
-[![Rajdeep1311's GitHub | Topics Over Time](https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
-[![Rajdeep1311's GitHub | Languages Over Time](https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
+<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/github?theme=dark">
+<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark">
+<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark">
 
 <h2>HACKTOBERFEST 2023</h2>
 

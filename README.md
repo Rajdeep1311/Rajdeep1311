@@ -40,9 +40,9 @@
 
 <h2>GITHUB SCORELINE</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep1311&theme=shades-of-blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep1311&theme=shades-of-blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![Rajdeep1311's GitHub | Stats](https://stats.quine.sh/Rajdeep1311/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
+[![Rajdeep1311's GitHub | Topics Over Time](https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
+[![Rajdeep1311's GitHub | Languages Over Time](https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajdeep1311)
 
 <h2>HACKTOBERFEST 2023</h2>
 

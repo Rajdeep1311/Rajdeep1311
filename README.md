@@ -38,12 +38,6 @@
 
 <img width="250" height="250" src="https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/c10c1739-89d4-4d2e-8ba4-1b2496ad1200">
 
-<h2>GITHUB SCORELINE</h2>
-
-<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/github?theme=dark">
-<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark">
-<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark">
-
 <h2>HACKTOBERFEST 2023</h2>
 
 [![An image of @rajdeep1311's Holopin badges,which is a link to view their full Holopin profile](https://holopin.me/rajdeep1311)](https://holopin.io/@rajdeep1311)

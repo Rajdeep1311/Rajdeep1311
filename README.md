@@ -40,9 +40,9 @@
 
 <h2>GITHUB SCORELINE</h2>
 
-<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/github?theme=dark">
-<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark">
-<img width="400" height="350" src="https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark">
+<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/github?theme=dark">
+<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/topics-over-time?theme=dark">
+<img width="400" height="250" src="https://stats.quine.sh/Rajdeep1311/languages-over-time?theme=dark">
 
 <h2>HACKTOBERFEST 2023</h2>
 
@@ -51,3 +51,5 @@
 <h2>CNCF Badges</h2>
 
 ![zero-to-merge-cohort-01](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/75918ed8-c04c-4901-824a-af7218eb58b4)
+![cka-certified-kubernetes-administrator (1)](https://github.com/user-attachments/assets/d5d2c844-4490-4409-a83c-e2f8a0fdd39a)
+

@@ -5,7 +5,7 @@
 ![Black and White Minimalist Animated Photography Camera YouTube Intro](https://github.com/Rajdeep1311/Rajdeep1311/assets/113296626/aa193074-02f5-422d-9343-c55c32a27796)
 
 - 🔭 I’m working as a Junior DevOps Engineer and helping in community building.
-- 🌱 I’m currently learning DevOps, Cloud, and Python.
+- 🌱 I’m currently learning DevOps, Cloud, and Kubernetes.
 - 👯 I want to collaborate on DevOps, Open-Source, and Cloud.
 - 💬 Ask me about DevOps, Cloud, and Open-Source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajdeep-pal-1832211b5/) and [Twitter](https://twitter.com/Rajdeep1311).
